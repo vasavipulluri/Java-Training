@@ -1,0 +1,26 @@
+package com.ibm.arrays;
+
+class Point{
+	public int x;
+	public int y;
+	public Point(int x,int y) {
+		this.x=x;
+		this.y=y;
+	}
+}
+
+public class Array1 {
+	public static void main(String[] args) {
+		int[][] nums;
+		nums =new int[3][2];
+		nums[1][0]=6;
+		
+		for(int[] firstDim:nums) {
+			for(int value:firstDim) {
+				System.out.println(value);
+			}
+			System.out.println();
+		}
+	}
+
+}

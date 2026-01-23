@@ -1,0 +1,11 @@
+package com.ibm.arrays;
+
+public class Variable1 {
+	static int var1;
+	public static void main(String[] args) {
+		// Application application=new Application();
+		// application.var1=15;
+		var1=20;
+	}
+
+}

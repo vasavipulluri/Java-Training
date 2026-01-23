@@ -1,0 +1,21 @@
+/**
+ * 
+ */
+package com.ibm.client.cui;
+
+/**
+ * 
+ */
+public class Number {
+	public static void main(String[] args) {
+		System.out.println("Start");
+		int num2;
+		int num1;
+		int num3;
+		
+		num1=20;
+		
+		System.out.println(num1);
+		System.out.println("End");
+	}
+}

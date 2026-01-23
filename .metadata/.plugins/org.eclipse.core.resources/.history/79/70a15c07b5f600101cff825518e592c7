@@ -1,0 +1,19 @@
+/**
+ * 
+ */
+package com.ibm.client.cui;
+
+/**
+ * 
+ */
+public class Number {
+	public static void main(String[] args) {
+		String str1,str2;
+		
+		str1="IBM";
+		str2="IBM";
+		
+		System.out.println(str1==str2);
+		System.out.println("End");
+	}
+}

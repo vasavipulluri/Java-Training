@@ -1,0 +1,26 @@
+package com.ibm.encapsulation;
+
+class Student{
+	private int age;
+
+	public int getAge() {
+		return age;
+	}
+
+	public void setAge(int age) {
+		if(age>0) {
+		this.age = age;
+		}
+	}
+	
+}
+
+public class Application
+{
+	public static void main( String[] args )
+	{
+		Student student=new Student();
+		student.setAge(10);
+		System.out.println(student.getAge());
+	}
+}

@@ -1,0 +1,17 @@
+package com.ibm.arrays;
+
+public class Array1 {
+	public static void main(String[] args) {
+		int[][] nums;
+		nums =new int[3][2];
+		nums[1][0]=6;
+		
+		for(int[] firstDim:nums) {
+			for(int value:firstDim) {
+				System.out.print(value+" ");
+			}
+			System.out.println();
+		}
+	}
+
+}

@@ -1,0 +1,23 @@
+package com.ibm.arrays;
+
+class Test{
+	static int num;
+	
+	public void testing() {
+		int value;
+	}
+}
+
+public class Variable {
+	public static void main(String[] args) {
+		Test test1=new Test();
+		Test test2=new Test();
+		
+		test1.num=1;
+		test2.num=2;
+		
+		
+		System.out.println(test1.num+","+test2.num);
+	}
+
+}
