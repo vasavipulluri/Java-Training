@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\PulluriVasavi\eclipse-workspace\interfaces\src\main\java\com\ibm\interfaces\Application.java"/>
+			<item value="C:\PulluriVasavi\eclipse-workspace\execption"/>
 			<item value="C:\PulluriVasavi\eclipse-workspace\Firstapp"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -26,13 +28,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.ibm.oops"/>
 		</list>
 		<list key="groupId">
-			<item value="com.ibm"/>
 		</list>
 		<list key="artifactId">
-			<item value="oops"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
