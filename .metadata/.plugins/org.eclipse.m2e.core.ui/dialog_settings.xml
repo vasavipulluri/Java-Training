@@ -28,10 +28,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.ibm.lambdas"/>
 		</list>
 		<list key="groupId">
+			<item value="com.ibm"/>
 		</list>
 		<list key="artifactId">
+			<item value="lambdas"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
