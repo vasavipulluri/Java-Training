@@ -28,12 +28,18 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.ibm.annotation"/>
+			<item value="com.ibm.internationalization"/>
+			<item value="com.ibm.Spring"/>
 			<item value="com.ibm.lambdas"/>
 		</list>
 		<list key="groupId">
 			<item value="com.ibm"/>
 		</list>
 		<list key="artifactId">
+			<item value="annotation"/>
+			<item value="internationalization"/>
+			<item value="Spring"/>
 			<item value="lambdas"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -66,5 +72,9 @@
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>
 		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
 </section>

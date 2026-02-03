@@ -1,5 +1,0 @@
-package com.ibm.staticfeature.util;
-
-public enum Months {
-
-}
