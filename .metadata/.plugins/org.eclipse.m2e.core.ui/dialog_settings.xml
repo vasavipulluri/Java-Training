@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\PulluriVasavi\eclipse-workspace\springjdbc"/>
 			<item value="C:\PulluriVasavi\eclipse-workspace\interfaces\src\main\java\com\ibm\interfaces\Application.java"/>
 			<item value="C:\PulluriVasavi\eclipse-workspace\execption"/>
 			<item value="C:\PulluriVasavi\eclipse-workspace\Firstapp"/>
@@ -28,19 +29,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.ibm.annotation"/>
-			<item value="com.ibm.internationalization"/>
-			<item value="com.ibm.Spring"/>
-			<item value="com.ibm.lambdas"/>
 		</list>
 		<list key="groupId">
-			<item value="com.ibm"/>
 		</list>
 		<list key="artifactId">
-			<item value="annotation"/>
-			<item value="internationalization"/>
-			<item value="Spring"/>
-			<item value="lambdas"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
